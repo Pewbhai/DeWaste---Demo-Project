@@ -24,8 +24,8 @@ DeWaste is a decentralized platform that rewards individuals and businesses for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dewaste-platform.git
-   cd dewaste-platform
+   git clone https://github.com/Pewbhai/DeWaste---Demo-Project.git
+   cd DeWaste---Demo-Project
    ```
 
 2. Install dependencies:
