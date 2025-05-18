@@ -1,6 +1,4 @@
-# # DeWaste - Recycle and Earn Platform ---Demo-Project
-DeWaste is a decentralized platform that rewards individuals and small businesses for recycling or reducing waste.
-
+# DeWaste - Recycle and Earn Platform
 
 DeWaste is a decentralized platform that rewards individuals and businesses for recycling and reducing waste. Built with React, Tailwind CSS, and blockchain technology, it enables users to earn USDC tokens for their recycling efforts.
 
